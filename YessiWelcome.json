@@ -1,0 +1,12 @@
+{
+  "notifications": [
+    {
+      "id": "welcome_1",
+      "enabled": true,
+      "version": 1,
+      "title": "WhatsApp Plus ULTRA",
+      "message": "Bienvenido, únete a nuestro canal oficial de CTZ.",
+      "url": "https://t.me/WhatsAppPlusUltra"
+    }
+  ]
+}
