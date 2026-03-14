@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
-    <data xmlurl="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Xml/" wall="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Wall/" screen="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/" />
+    <data
+        xmlurl="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Xml/"
+        wall="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Wall/"
+        screens="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/"
+    />
     <theme>
-    <title>CTZ_Default</title>
-    <author>AnddyCort</author> <description>Estilo minimalista oscuro para Loc-OS</description> <date>14/03/2026</date>
-</theme>
-
+        <title>CTZ_Default</title>
+        <author>CTZ</author>
+        <description>El tema clasico actualizado 2026 by CTZ</description>
+        <date>14/03/2026</date>
+    </theme>
+    <theme>
+        <title>Rc_ThemeOne_DarkGreen</title>
+        <author>YesiiMods</author>
+        <description>Tema oscuro en tonos verde con estilo moderno</description>
+        <date>01/01/2026</date>
+    </theme>
+    <theme>
+        <title>Twitter_OneUI</title>
+        <author>YesiiMods</author>
+        <description>Estilo Twitter combinado con la interfaz OneUI de Samsung</description>
+        <date>01/01/2026</date>
+    </theme>
+    <theme>
+        <title>BBcute_by_Patty_Silva</title>
+        <author>Patty Silva</author>
+        <description>Tema femenino y colorido con estilo kawaii by Patty Silva</description>
+        <date>01/01/2026</date>
+    </theme>
+    <theme>
+        <title>Blue_Light</title>
+        <author>YesiiMods</author>
+        <description>Tema claro en tonos azules elegante y limpio</description>
+        <date>01/01/2026</date>
+    </theme>
+    <theme>
+        <title>Bonequinha_cute_by_Geise</title>
+        <author>Geise</author>
+        <description>Tema cute pastel con estilo adorable by Geise</description>
+        <date>01/01/2026</date>
+    </theme>
+    <theme>
+        <title>Brujita</title>
+        <author>YesiiMods</author>
+        <description>Tema magico con ilustracion de brujita anime y colores teal</description>
+        <date>01/01/2026</date>
+    </theme>
 </themes>
