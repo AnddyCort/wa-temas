@@ -2,7 +2,8 @@
 <themes>
     <data xmlurl="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Xml/" wall="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Wall/" screen="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/" />
     <theme>
-        <title>CTZ_Default</title>
-        <date>14/03/2026</date>
-    </theme>
+    <title>CTZ_Default</title>
+    <author>AnddyCort</author> <description>Estilo minimalista oscuro para Loc-OS</description> <date>14/03/2026</date>
 </theme>
+
+</themes>
