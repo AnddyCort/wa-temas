@@ -5,18 +5,19 @@
         wall="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Wall/"
         screens="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/"
     />
-    <theme>
-        <title>Anime</title>
-        <author>Alex 46</author>
-        <description>Me gusta mucho este mod y sacarle mucho provecho </description>
-        <date>15/03/2026</date>
-    </theme>
 <theme>
         <title>CTZ_Default</title>
         <author>CTZ</author>
         <description>El tema clasico actualizado 2026 by CTZ</description>
         <date>14/03/2026</date>
     </theme>
+    <theme>
+        <title>Anime</title>
+        <author>Alex 46</author>
+        <description>Me gusta mucho este mod y sacarle mucho provecho </description>
+        <date>15/03/2026</date>
+    </theme>
+
     <theme>
         <title>Rc_ThemeOne_DarkGreen</title>
         <author>YesiiMods</author>
