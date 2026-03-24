@@ -344,7 +344,7 @@
     <int name="pic_chat_size_pickerV2" value="40" />
     <boolean name="max_status" value="true" />
     <boolean name="abu_saleh_toast_profile_bc_Gactive" value="false" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
     <boolean name="abu_saleh_hide_list" value="true" />
