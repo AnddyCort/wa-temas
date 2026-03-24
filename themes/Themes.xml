@@ -6,6 +6,12 @@
         screens="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/"
     />
 <theme>
+        <title>RoninBoneRed</title>
+        <author>CTZ</author>
+        <description>Tonos rojos y negro mate</description>
+        <date>23/03/2026</date>
+    </theme>
+<theme>
         <title>CTZ_Default</title>
         <author>CTZ</author>
         <description>El tema clasico actualizado 2026</description>
