@@ -12,16 +12,16 @@
         <date>23/03/2026</date>
     </theme>
 <theme>
-        <title>CTZ_Default</title>
-        <author>CTZ</author>
-        <description>El tema clasico actualizado 2026</description>
-        <date>14/03/2026</date>
-    </theme>
-<theme>
         <title>CORAZONES</title>
         <author>NesDroid</author>
         <description>Tema Claro con corazones naranjas como decorado</description>
         <date>15/03/2026</date>
+    </theme>
+<theme>
+        <title>CTZ_Default</title>
+        <author>CTZ</author>
+        <description>El tema clasico actualizado 2026</description>
+        <date>14/03/2026</date>
     </theme>
     <theme>
         <title>Rc_ThemeOne_DarkGreen</title>
