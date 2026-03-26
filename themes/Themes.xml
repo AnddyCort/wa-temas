@@ -6,6 +6,12 @@
         screens="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/"
     />
 <theme>
+        <title>Chiikawa</title>
+        <author>CTZ</author>
+        <description>Noche estrellada </description>
+        <date>26/03/2026</date>
+    </theme>
+<theme>
         <title>RoninBoneRed</title>
         <author>CTZ</author>
         <description>Tonos rojos y negro mate</description>
