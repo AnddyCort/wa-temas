@@ -6,6 +6,12 @@
         screens="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/"
     />
 <theme>
+        <title>SnakeBlue</title>
+        <author>CTZ</author>
+        <description>Serpiente azul amigable</description>
+        <date>30/03/2026</date>
+    </theme>
+<theme>
         <title>Chiikawa</title>
         <author>CTZ</author>
         <description>Noche estrellada </description>
