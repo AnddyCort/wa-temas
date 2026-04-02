@@ -6,6 +6,12 @@
         screens="https://raw.githubusercontent.com/AnddyCort/wa-temas/main/themes/Screen/"
     />
 <theme>
+        <title>Ajolote</title>
+        <author>CTZ</author>
+        <description>Un ajolote en calma</description>
+        <date>02/04/2026</date>
+    </theme>
+<theme>
         <title>SnakeBlue</title>
         <author>CTZ</author>
         <description>Serpiente azul amigable</description>
